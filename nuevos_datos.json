@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 10001,
+    "Edad": 30,
+    "Nivel_Educativo": "Universitaria",
+    "Experiencia_Anios": 8,
+    "Departamento": "TI",
+    "Horas_Entrenamiento_Mensual": 10,
+    "Satisfaccion_Laboral": "Alta",
+    "Remoto": "Sí"
+  },
+  {
+    "ID": 10002,
+    "Edad": 40,
+    "Nivel_Educativo": "Técnica",
+    "Experiencia_Anios": 20,
+    "Departamento": "Ventas",
+    "Horas_Entrenamiento_Mensual": 12,
+    "Satisfaccion_Laboral": "Media",
+    "Remoto": "No"
+  },
+  {
+    "ID": 10003,
+    "Edad": 50,
+    "Nivel_Educativo": "Secundaria",
+    "Experiencia_Anios": 35,
+    "Departamento": "Recursos Humanos",
+    "Horas_Entrenamiento_Mensual": 8,
+    "Satisfaccion_Laboral": "Muy Alta",
+    "Remoto": "Sí"
+  }
+]
