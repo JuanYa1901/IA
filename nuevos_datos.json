@@ -1,32 +1,31 @@
-[
-  {
-    "ID": 10001,
-    "Edad": 30,
-    "Nivel_Educativo": "Universitaria",
-    "Experiencia_Anios": 8,
-    "Departamento": "TI",
-    "Horas_Entrenamiento_Mensual": 10,
-    "Satisfaccion_Laboral": "Alta",
-    "Remoto": "Sí"
-  },
-  {
-    "ID": 10002,
-    "Edad": 40,
-    "Nivel_Educativo": "Técnica",
-    "Experiencia_Anios": 20,
-    "Departamento": "Ventas",
-    "Horas_Entrenamiento_Mensual": 12,
-    "Satisfaccion_Laboral": "Media",
-    "Remoto": "No"
-  },
-  {
-    "ID": 10003,
-    "Edad": 50,
-    "Nivel_Educativo": "Secundaria",
-    "Experiencia_Anios": 35,
-    "Departamento": "Recursos Humanos",
-    "Horas_Entrenamiento_Mensual": 8,
-    "Satisfaccion_Laboral": "Muy Alta",
-    "Remoto": "Sí"
-  }
-]
+ID,Edad,Nivel_Educativo,Experiencia_Anios,Departamento,Horas_Entrenamiento_Mensual,Satisfaccion_Laboral,Remoto,Salario_Mensual
+16,35,Técnica,12,TI,10,Alta,No,5120.35
+17,42,Universitaria,20,Marketing,9,Muy Alta,Sí,6234.89
+18,50,Postgrado,30,Ventas,7,Alta,No,7421.55
+19,33,Universitaria,10,Finanzas,8,Media,Sí,4980.20
+20,29,Técnica,8,TI,12,Baja,No,4530.80
+21,41,Universitaria,19,Ventas,9,Alta,Sí,5730.10
+22,38,Secundaria,17,TI,6,Media,No,4895.75
+23,55,Postgrado,34,Finanzas,11,Muy Alta,No,8102.33
+24,46,Técnica,22,Ventas,10,Alta,Sí,6254.90
+25,31,Universitaria,9,Marketing,7,Media,Sí,5020.10
+26,39,Universitaria,15,TI,13,Alta,No,5904.00
+27,47,Técnica,28,Finanzas,8,Baja,Sí,5482.65
+28,34,Secundaria,14,Ventas,9,Media,No,4753.33
+29,40,Postgrado,18,Marketing,10,Muy Alta,Sí,6695.21
+30,36,Universitaria,13,TI,7,Alta,No,5300.70
+31,52,Universitaria,30,Ventas,6,Media,No,7100.99
+32,44,Técnica,24,Finanzas,10,Alta,Sí,6480.43
+33,28,Universitaria,6,Marketing,11,Media,Sí,4720.30
+34,37,Secundaria,16,TI,5,Baja,No,4605.85
+35,53,Postgrado,32,Ventas,9,Alta,No,7954.72
+36,30,Universitaria,7,Finanzas,6,Media,Sí,5010.25
+37,45,Técnica,21,TI,10,Muy Alta,Sí,6245.10
+38,58,Universitaria,35,Ventas,8,Alta,No,8230.70
+39,27,Técnica,5,Marketing,9,Media,No,4520.44
+40,49,Postgrado,29,TI,12,Alta,Sí,7520.99
+41,33,Universitaria,11,Finanzas,6,Media,No,5100.00
+42,59,Técnica,39,TI,7,Alta,Sí,7044.30
+43,34,Secundaria,12,Ventas,8,Media,No,4702.10
+44,43,Universitaria,20,Marketing,10,Muy Alta,Sí,6010.60
+45,48,Postgrado,26,Finanzas,9,Alta,No,7350.80
